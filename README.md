@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sobia 👋
 
-<!--
-**SobiaAsif/SobiaAsif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate, focused on becoming an **AI Engineer**
 
-Here are some ideas to get you started:
+🤖 I build practical AI automation workflows using **n8n**, integrating tools like **Groq AI**, **Firebase**, and **Resend** into real-world systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently working on a **Restaurant SaaS platform** — building analytics, invoicing, and automation features end-to-end
+
+💻 My latest project: [Online Community Book Exchange System](https://github.com/SobiaAsif/Online-Community-book-Exchange-System) — a PHP/MySQL web app (Final Year Project)
+
+🌱 Background in computer science education — previously worked as a CS teacher and computer lab supervisor
+
+📫 Open to junior AI Engineer / automation / software development roles
+
+---
+
+### 🛠️ Tech & Tools
+`Python` `NumPy` `Pandas` `Matplotlib` `MySQL` `n8n` `Firebase` `Groq AI` `Git & GitHub`
